@@ -4,4 +4,4 @@
 * Sitio web de la práctica JS : [Pokédex]()
 
 Captura de la página:
-![Captura de la página Pokédex]()
+![Captura de la página Pokédex](https://github.com/sw-eng-rickwork17/JS-FrontEnd-Mission-LaunchX/blob/main/img/pokedex_screenshot.png)
